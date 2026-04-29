@@ -99,5 +99,5 @@ Ao invés de depender de um servidor backend (Node.js/Python) rodando 24/7 na nu
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/brunnodev50/react-native-chat-telegram-bot.git](https://github.com/brunnodev50/react-native-chat-telegram-bot.git)
+   git clone https://github.com/brunnodev50/react-native-chat-telegram-bot.git
    cd react-native-chat-telegram-bot
